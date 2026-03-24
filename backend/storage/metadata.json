@@ -1,0 +1,33 @@
+[
+  {
+    "id": "44c02162-c25e-4ee9-8704-2f9f0393fe2c",
+    "title": "Mountain sunset",
+    "url": "/images/44c02162-c25e-4ee9-8704-2f9f0393fe2c.jpg",
+    "tags": [
+      "mountain",
+      "sunset",
+      "nature"
+    ],
+    "createdAt": "2026-03-24T13:15:23.271669923+01:00"
+  },
+  {
+    "id": "a1d73255-f401-4a26-8706-4aa6d99bf7e3",
+    "title": "Dragonblood tree",
+    "url": "/images/a1d73255-f401-4a26-8706-4aa6d99bf7e3.jpg",
+    "tags": [
+      "tree",
+      "africa"
+    ],
+    "createdAt": "2026-03-24T13:22:39.48506999+01:00"
+  },
+  {
+    "id": "8d940fb8-0556-417e-a514-49cb0301a5e6",
+    "title": "Ants working hard",
+    "url": "/images/8d940fb8-0556-417e-a514-49cb0301a5e6.jpg",
+    "tags": [
+      "ants",
+      "nature"
+    ],
+    "createdAt": "2026-03-24T13:25:01.852079494+01:00"
+  } 
+]
